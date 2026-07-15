@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/lalit760/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0669-trim-a-binary-search-tree](https://github.com/lalit760/DSA/tree/master/0669-trim-a-binary-search-tree) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/lalit760/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/lalit760/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Stack
 |  |
@@ -58,9 +59,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/lalit760/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/lalit760/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/lalit760/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/lalit760/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+## Hash Table
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/lalit760/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
