@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/lalit760/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0669-trim-a-binary-search-tree](https://github.com/lalit760/DSA/tree/master/0669-trim-a-binary-search-tree) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/lalit760/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Stack
 |  |
 | ------- |
@@ -50,4 +51,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/lalit760/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/lalit760/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+## Union-Find
+|  |
+| ------- |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/lalit760/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/lalit760/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 <!---LeetCode Topics End-->
