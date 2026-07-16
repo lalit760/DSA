@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/lalit760/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/lalit760/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/lalit760/DSA/tree/master/0051-n-queens) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/lalit760/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/lalit760/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/lalit760/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/lalit760/DSA/tree/master/0051-n-queens) |
 ## Tree
