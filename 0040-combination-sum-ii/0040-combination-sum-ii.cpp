@@ -11,7 +11,7 @@ public:
         if(cad[idx] <= target){ // we hace two choice pick or not pick
             subset.push_back(cad[idx]);
             helper(idx+1, cad, target-cad[idx], subset);
-            subset.pop_back();
+            subset.pop_back(); // backtracking
         }
         int j = idx+1;
         while(j<cad.size() && cad[j]==cad[j-1]) j++;
