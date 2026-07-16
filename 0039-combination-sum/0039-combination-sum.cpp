@@ -10,11 +10,9 @@ public:
         if(cad[idx] <= t){
             subset.push_back(cad[idx]); //pick & stay
             helper(cad,t-cad[idx],idx,subset);
-            subset.pop_back();
+            subset.pop_back(); // backtracking
 
-            // subset.push_back(cad[idx]); //pick & move
-            // helper(cad,t-cad[idx],idx+1,subset);
-            // subset.pop_back();
+            
         }
         helper(cad,t,idx+1,subset); //not pick & move
     }
