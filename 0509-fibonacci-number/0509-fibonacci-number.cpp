@@ -14,7 +14,7 @@ public:
         // vector<int>dp(n+1, -1);
         // return solve(n, dp);
 
-        // TABULATION
+        // TABULATION / bottom up
         if(n==0 || n==1) return n;
         vector<int>dp(n+1,0);
         dp[0]=0; 
