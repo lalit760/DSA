@@ -4,7 +4,7 @@ public:
         int m = obstacleGrid.size();
         int n = obstacleGrid[0].size();
         vector<vector<bool>>obstacle(m,vector<bool>(n,true));
-        vector<vector<long long>>dp(m,vector<long long>(n,0)); //have to use long long
+        vector<vector<long long>>dp(m,vector<long long>(n,0)); //had to use long long
 
         if(obstacleGrid[m-1][n-1] == 1 || obstacleGrid[0][0] == 1) return 0; //special case
         dp[m-1][n-1] = 1;       
