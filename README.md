@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/lalit760/DSA/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/lalit760/DSA/tree/master/0509-fibonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/lalit760/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/lalit760/DSA/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/lalit760/DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/lalit760/DSA/tree/master/0746-min-cost-climbing-stairs) |
 ## Recursion
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/lalit760/DSA/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/lalit760/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
