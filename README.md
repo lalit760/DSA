@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/lalit760/DSA/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/lalit760/DSA/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/lalit760/DSA/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/lalit760/DSA/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/lalit760/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/lalit760/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Backtracking
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/lalit760/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/lalit760/DSA/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/lalit760/DSA/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/lalit760/DSA/tree/master/0213-house-robber-ii) |
 | [0397-integer-replacement](https://github.com/lalit760/DSA/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/lalit760/DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/lalit760/DSA/tree/master/0746-min-cost-climbing-stairs) |
