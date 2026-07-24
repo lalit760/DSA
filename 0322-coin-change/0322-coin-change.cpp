@@ -26,6 +26,6 @@ public:
         reverse(coins.begin(),coins.end());
         int ans = helper(coins,amount,0,0);
 
-        return (ans==INT_MAX) ? -1 : ans;
+        return (ans==INT_MAX) ? -1 : ans; //return -1 if condition satisfied otherwise return ans
     }
 };
