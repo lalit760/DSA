@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/lalit760/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/lalit760/DSA/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/lalit760/DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/lalit760/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/lalit760/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Recursion
 |  |
@@ -153,4 +154,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/lalit760/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/lalit760/DSA/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/lalit760/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 <!---LeetCode Topics End-->
