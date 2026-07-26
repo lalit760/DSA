@@ -11,11 +11,11 @@ public:
             return dp[i][j] = helper(word1,word2,i-1,j-1);
         }
         else{
-            int x = helper(word1,word2,i,j-1); //inserting something in word1 is equivalent to deleting from word2
-            int y = helper(word1,word2,i-1,j); // deteting
-            int z = helper(word1,word2,i-1,j-1); //replacing
+            int x =1+helper(word1,word2,i,j-1); //inserting something in word1 is equivalent to deleting from word2
+            int y = 1+helper(word1,word2,i-1,j); // deteting
+            int z = 1+helper(word1,word2,i-1,j-1); //replacing
 
-            return dp[i][j] = 1+min({x,y,z}); //1 operation (just performed) + minimum operations needed for the remaining strings
+            return dp[i][j] = min({x,y,z}); //1 operation (just performed) + minimum operations needed for the remaining strings
         }
     }
     int minDistance(string word1, string word2) {
