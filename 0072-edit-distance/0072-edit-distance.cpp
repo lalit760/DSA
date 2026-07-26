@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<int>>dp;
-    int helper(string word1, string word2,int i, int j){
+    int helper(string &word1, string &word2,int i, int j){
         if(i<0) return j+1;
         if(j<0) return i+1;
 
