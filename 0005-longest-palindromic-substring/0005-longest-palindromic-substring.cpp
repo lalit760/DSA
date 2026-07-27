@@ -23,24 +23,42 @@ public:
         for(int i=0;i<n;i++){
             dp[i][i]=1;
         }
-        for(int col=1;col<n;col++){ //upper half
-            int i=0; int j=col;
-            while(i<n && j<n){
+        // for(int col=1;col<n;col++){ //upper half
+        //     int i=0; int j=col;
+        //     while(i<n && j<n){
+        //         if(s[i]==s[j] && j-i==1){
+        //            dp[i][j]=1;
+        //            if(j-i+1 > ans.size()){
+        //             ans = part(s,i,j);
+        //            }
+        //         }
+        //         else if(s[i]==s[j] && dp[i+1][j-1]==1){
+        //             dp[i][j] = 1;
+                //     if(j-i+1 > ans.size()){
+                //         ans = part(s,i,j);
+                //    }
+        //         }
+        //         i++; j++;
+        //     }
+        // }
+        // UPPER-HALF
+        for(int k=1;k<n;k++){
+            for(int i=0,j=k ; i<n-k,j<n ; i++,j++){
                 if(s[i]==s[j] && j-i==1){
-                   dp[i][j]=1;
-                   if(j-i+1 > ans.size()){
-                    ans = part(s,i,j);
-                   }
-                }
-                else if(s[i]==s[j] && dp[i+1][j-1]==1){
                     dp[i][j] = 1;
                     if(j-i+1 > ans.size()){
                         ans = part(s,i,j);
                    }
                 }
-                i++; j++;
+                else if(s[i]==s[j] && dp[i+1][j-1]==1){
+                    dp[i][j]=1;
+                    if(j-i+1 > ans.size()){
+                        ans = part(s,i,j);
+                   }
+                }
             }
         }
+
         return ans;
 
     }
