@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/lalit760/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/lalit760/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/lalit760/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/lalit760/DSA/tree/master/0669-trim-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -43,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/lalit760/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/lalit760/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/lalit760/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/lalit760/DSA/tree/master/0669-trim-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/lalit760/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/lalit760/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/lalit760/DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/lalit760/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/lalit760/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
