@@ -181,5 +181,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lalit760/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/lalit760/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0647-palindromic-substrings](https://github.com/lalit760/DSA/tree/master/0647-palindromic-substrings) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/lalit760/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
