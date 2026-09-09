@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/lalit760/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/lalit760/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/lalit760/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/lalit760/DSA/tree/master/0051-n-queens) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lalit760/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/lalit760/DSA/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/lalit760/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/lalit760/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/lalit760/DSA/tree/master/0063-unique-paths-ii) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lalit760/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/lalit760/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/lalit760/DSA/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/lalit760/DSA/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/lalit760/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/lalit760/DSA/tree/master/0583-delete-operation-for-two-strings) |
@@ -195,4 +198,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lalit760/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/lalit760/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
