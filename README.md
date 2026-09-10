@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/lalit760/DSA/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/lalit760/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/lalit760/DSA/tree/master/0518-coin-change-ii) |
+| [0658-find-k-closest-elements](https://github.com/lalit760/DSA/tree/master/0658-find-k-closest-elements) |
 | [0746-min-cost-climbing-stairs](https://github.com/lalit760/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/lalit760/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/lalit760/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/lalit760/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0450-delete-node-in-a-bst](https://github.com/lalit760/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/lalit760/DSA/tree/master/0658-find-k-closest-elements) |
 | [0669-trim-a-binary-search-tree](https://github.com/lalit760/DSA/tree/master/0669-trim-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/lalit760/DSA/tree/master/0368-largest-divisible-subset) |
+| [0658-find-k-closest-elements](https://github.com/lalit760/DSA/tree/master/0658-find-k-closest-elements) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/lalit760/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Simulation
 |  |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/lalit760/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/lalit760/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0647-palindromic-substrings](https://github.com/lalit760/DSA/tree/master/0647-palindromic-substrings) |
+| [0658-find-k-closest-elements](https://github.com/lalit760/DSA/tree/master/0658-find-k-closest-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/lalit760/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0658-find-k-closest-elements](https://github.com/lalit760/DSA/tree/master/0658-find-k-closest-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -216,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/lalit760/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/lalit760/DSA/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
